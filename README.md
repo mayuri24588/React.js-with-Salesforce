@@ -15,7 +15,7 @@ A form to add a new feilds that are inserted into the Banner__c custom object.
   
 - Create visualsource page (Banner.page)
 
-- Preview that page
+- Preview that VF page
 
 - You can view the fields, can add new fields as well. It also refelects the custom fields in salesforce.
 
